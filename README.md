@@ -8,7 +8,7 @@
 
 <b><p align="left">💫 About Me :</p></b>
 
-- 🔭 I’m currently working on **Building clean, responsive web projects through my internships at Prodigy InfoTech and Oasis Infobyte.**
+- 🔭 I’m currently working on **Building clean, responsive web projects through my internships at Oasis Infobyte.**
 
 - 🌱 I’m currently learning **Network Security, Computer Networks, Git, and GitHub workflows.**
 
